@@ -1,3 +1,3 @@
 console.log("bwmko")
 console.log("lhqxn")
-console.log("yrwvg")
+console.log("rinso")

@@ -1,3 +1,3 @@
 console.log("usmoa")
 console.log("ktrek")
-console.log("adhur")
+console.log("qogik")
